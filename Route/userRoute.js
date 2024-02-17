@@ -6,7 +6,7 @@ import {
 
 const router = express.Router();
 
-router.post('/new',createUser );
+router.post('/new', createUser);
 /*router.put('/update/:id', deleteUser);
 router.delete('/delete/:id', updateUser);*/
 

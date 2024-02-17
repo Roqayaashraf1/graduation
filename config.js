@@ -23,11 +23,12 @@ export default {
   host: HOST,
   hostUrl: HOST_URL,
   firebaseConfig: {
-    apiKey: API_KEY,
-    authDomain: AUTH_DOMAIN,
-    projectId: PROJECT_ID,
-    storageBucket: STORAGE_BUCKET,
-    messagingSenderId: MESSAGING_SENDER_ID,
-    appId: APP_ID,
+    apiKey: "AIzaSyAqmXpCxb2-BHnZmEPXGeWA3okT_i1ItSI",
+    authDomain: "graduation2-fb874.firebaseapp.com",
+    projectId: "graduation2-fb874",
+    storageBucket: "graduation2-fb874.appspot.com",
+    messagingSenderId: "33103850184",
+    appId: "1:33103850184:web:5de451f9bd3b9f85c9d3fd",
+    measurementId: "G-J126KFNYPQ"
   },
 };
